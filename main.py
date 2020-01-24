@@ -17,8 +17,6 @@ from snappy import GPF
 import os.path
 from os import path
 
-
-
 ### Reading the product subset
 subset_path = 'dataset/subset_0_of_S1A_IW_GRDH_1SDV_20191004T011831_20191004T011856_029302_035471_E23D.dim'
 if path.exists(subset_path):
